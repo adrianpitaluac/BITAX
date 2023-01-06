@@ -1,0 +1,8 @@
+{
+    "calcetas":[
+        {"id": "1","producto": "Calceta", "img": "https://hyper-s3.behtarino.com/media/products/7ff/fwbz5ry3-256.jpg", "marca": "Nike", "precio": "$25"},
+        {"id": "2","producto": "Calceta", "img": "https://http2.mlstatic.com/D_NQ_NP_640779-MLM40888210053_022020-O.jpg", "marca": "Adidas", "precio": "$30"},
+        {"id": "3","producto": "Calceta", "img": "https://hyper-s3.behtarino.com/media/products/7ff/fwbz5ry3-256.jpg", "marca": "Nike", "precio": "$35"},
+        {"id": "4","producto": "Calceta", "img": "https://http2.mlstatic.com/D_NQ_NP_640779-MLM40888210053_022020-O.jpg", "marca": "Adidas", "precio": "$40"}
+    ]}
+
